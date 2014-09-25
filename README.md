@@ -24,5 +24,8 @@ Partially/Not complete:
 -Custom cells should have the proper Auto Layout constraints
 
 
-Gif captured by LiceCap
 <img src="https://github.com/sdatla/Yelp-IOS-app/blob/master/YelpProject/yelp_app.gif" />
+
+
+
+Gif captured by LiceCap
