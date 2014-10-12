@@ -33,7 +33,7 @@ Filter Page:
 - Deals switch implemented
 
 
-<img src="https://github.com/sdatla/Yelp-IOS-app/blob/master/YelpProject/yelp_app.gif" />
+<img src="https://github.com/sdatla/Yelp-IOS-app/blob/master/yelp.gif" />
 
 
 
